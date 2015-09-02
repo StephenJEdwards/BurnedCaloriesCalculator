@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BurnedCaloriesCalculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="weight_label">Weight</string>
+    <string name="miles_label">Miles Ran</string>
+    <string name="calories_burned_label">Calories Burned</string>
+    <string name="height_label">Height</string>
+    <string name="bmi_label">BMI</string>
+    <string name="name_label">Name</string>
+    <string name="miles_edit_label">1</string>
+    <string name="calories_edit_label">00.0</string>
+
+    <string name="weight_edit_label">000</string>
+    <string name="bmi_edit_label">00</string>
+    <string name="name_edit_label" />
+
+</resources>
